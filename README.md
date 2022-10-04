@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=luckymurari&style=flat-square" alt="luckymurari" />
-### Hi there 👋 I am a Product Manager and not a professional developer.
+<b>Hi there 👋 I am a Product Manager and not a professional developer.</b>
 
 <hr/>
 
@@ -21,4 +21,4 @@
 <br/>🦄 I started a firm long back and exited
 
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckymurari&theme=dark"/></p>
+<p align="center" style="display:none;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckymurari&theme=dark" /></p>
